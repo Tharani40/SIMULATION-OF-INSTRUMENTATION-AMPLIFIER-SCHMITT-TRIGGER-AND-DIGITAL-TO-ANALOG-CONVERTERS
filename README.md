@@ -18,15 +18,22 @@ LT-Spice
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
 ## INSTRUMENTATION AMPLIFIER CIRCUIT DIAGRAM 
+<img width="940" height="703" alt="image" src="https://github.com/user-attachments/assets/3e732faf-ebec-4a4f-b40f-cf0c2ab8353a" />
 
 ## OUTPUT: INSTRUMENTATION AMPLIFIER
+<img width="940" height="675" alt="image" src="https://github.com/user-attachments/assets/603409a9-5e00-4320-b1bd-712d03cab343" />
 
 ## SCHMITT TRIGGER CIRCUIT DIAGRAM
+<img width="940" height="738" alt="image" src="https://github.com/user-attachments/assets/89eec80a-4c18-4a9d-bd88-6834d31474d1" />
 
 ## OUTPUT: SCHMITT TRIGGER 
+<img width="940" height="758" alt="image" src="https://github.com/user-attachments/assets/7ef883fd-fb68-4b4c-b8f8-9125ce6083bf" />
 
 ## DIGITAL TO ANALOG CONVERTER CIRCUIT DIAGRAM
+<img width="940" height="661" alt="image" src="https://github.com/user-attachments/assets/9ae2cb40-39cf-46b4-a9d5-01c1fe886e33" />
 
 ## OUTPUT: DIGITAL TO ANALOG CONVERTER
+<img width="940" height="707" alt="image" src="https://github.com/user-attachments/assets/78eff652-bcea-467f-9243-f80b224b311d" />
 
 ## RESULT :
+The Instrumentation amplifier circuit, the Schmitt trigger circuit and the Digital to Analog Converter circuit using LT-Spice is designed and stimulated.
